@@ -14,6 +14,7 @@ namespace ejemplo2
     {
         public frmPrincipal()
         {
+            //agrego un comentario para ver si me modifica la consola
             InitializeComponent();
         }
 
